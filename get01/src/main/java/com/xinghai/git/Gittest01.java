@@ -6,5 +6,7 @@ public class Gittest01 {
         System.out.println("哈喽...");
         System.out.println("在吗？");
         System.out.println("在的~");
+        System.out.println("干啥？");
+        System.out.println("想妳了~");
     }
 }
