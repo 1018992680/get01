@@ -8,6 +8,7 @@ public class Gittest01 {
         System.out.println("在的~");
         System.out.println("干啥？");
         System.out.println("想妳了~");
+        System.out.println("我也是..");
         System.out.println("嗯嗯~");
     }
 }
