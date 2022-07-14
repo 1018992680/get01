@@ -10,5 +10,6 @@ public class Gittest01 {
         System.out.println("想妳了~");
         System.out.println("我也是..");
         System.out.println("嗯嗯~");
+        System.out.println("嘿嘿...嘿嘿!");
     }
 }
